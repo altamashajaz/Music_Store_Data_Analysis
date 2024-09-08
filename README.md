@@ -1,2 +1,62 @@
-# Music_Store_Data_Analysis
-This project analyzes the sales data from a digital music store using SQL. It answers key business questions related to customer behavior, top genres, and high-revenue locations. Insights from this analysis help optimize sales strategies, identify top customers, and inform decisions on promotional events.
+# Music Store Data Analysis
+
+## Project Overview
+This project involves analyzing the sales data from a digital music store to extract business insights and help improve decision-making. By using SQL queries, we answer various questions related to customer behavior, top genres, and high-performing artists.
+
+## Problem Statement
+The project seeks to help a music store better understand its customers, identify its best-selling products, and optimize its sales strategies. Key business questions include:
+- Which city generates the highest revenue for future promotions?
+- Who are the top customers by spending?
+- What are the top genres and artists across different countries?
+
+## Dataset
+The dataset contains sales records of the music store, including customer details, invoice totals, track information, and genre data.
+
+## Objectives
+- Identify the senior-most employee based on job title.
+- Determine which countries generate the most invoices.
+- Identify the top 3 highest invoice values.
+- Find the city with the highest total invoice amount for promotional purposes.
+- Determine the best customer based on total spending.
+- Analyze customer preferences for specific genres, especially Rock music.
+
+## SQL Queries Overview
+The project involves a series of SQL queries grouped into three levels of complexity:
+
+### Easy Queries
+1. Identify the senior-most employee based on job title.
+2. Find the countries with the most invoices.
+3. List the top 3 highest invoice totals.
+4. Determine the city generating the highest invoice total (for a promotional event).
+5. Identify the best customer based on spending.
+
+### Moderate Queries
+1. Retrieve details of Rock music listeners.
+2. List the top 10 rock bands based on the number of tracks.
+3. Identify tracks with a duration longer than the average song length.
+
+### Advanced Queries
+1. Analyze customer spending on artists.
+2. Identify the most popular music genre in each country.
+3. Determine the top-spending customer in each country.
+
+## Insights & Results
+Key findings from the analysis include:
+- The top city generating the highest revenue for potential music festivals.
+- Identification of the store’s best customers based on total spending.
+- Popular genres and artists across different regions, providing insights for targeted marketing.
+
+## Technology Used
+- **SQL**: Structured Query Language for data extraction and analysis.
+
+## How to Run the Project
+1. Download the SQL queries from this repository.
+2. Use a SQL-compatible database management system (e.g., MySQL, PostgreSQL) to run the queries.
+3. Analyze the results to answer the business questions posed.
+
+## Special Thanks
+Special thanks to [Rishabh Mishra](https://www.youtube.com/@RishabhMishraOfficial) for providing the database and question set that made this project possible.
+
+## Author
+This project was created by [Altamash Ajaz](https://github.com/altamashajaz/).
+
